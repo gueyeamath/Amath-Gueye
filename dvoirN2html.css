@@ -1,0 +1,346 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: cursive;
+	text-decoration: none;
+	list-style: none;
+}
+
+.papa{
+	background-color: crimson;
+	width: 100%;
+	position: fixed;
+	padding: 	15px 0px;
+}
+.papa .gueye{
+	width: 1250px;
+	display: flex;
+	justify-content: space-between;
+	margin:auto	;
+}
+.papa1 a{
+	color: #000;
+	font-size: 40px;
+	font-weight: 500;
+}
+.papa1 a em {
+	color: skyblue;
+}
+.papa2{
+	margin-top: 6px;
+}
+.papa2 li{
+	display: inline-block;
+}
+.papa3 li a{
+	color:white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.papa3 li a:hover{
+	color:#000;
+}
+/*******************************************************/
+.gueye1{
+	background:url('IMG-20210202-WA0015.jpg');
+	height:800px;
+	display: flex;
+	background-repeat: no-repeat;	
+}
+.gueye1 .gueye2{
+	color: 	blue;
+	margin:auto 120px;
+}
+.gueye1 .gueye3 .text-1{
+	font-size: 	40px;
+	font-weight:600;
+
+}
+.gueye1 .gueye3 .text-2{
+	color: 	crimson;
+	font-size: 60px;
+	font-weight: 	500;
+}
+.gueye1 .gueye3 .text-3{
+		font-size: 	50px;
+		font-weight: 700;
+}
+.gueye1 .gueye3 .text-3 span{
+	color: 	crimson;
+}
+.gueye1 .gueye2 a{
+	display:inline-block;	
+	font-size: 	40px;
+	font-weight: 	200;
+	background-color: 	crimson;
+	color: 	white;
+	border-radius: 	20px;
+	padding: 	15px 30px;
+	margin-top: 	20px;
+	border:2px solid crimson	;
+
+
+}
+.gueye1 .gueye2 a:hover{
+	background:none;
+}
+/**********************************************************************/
+.ama{
+	padding:50px 150px;
+	background-color: skyblue;
+}
+.ama .title{
+	font-size: 	40px;
+	font-weight: 	500;
+	text-align: 	center;	
+	text-decoration: 	underline crimson;	
+
+}
+.ama .ama1{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;	
+
+
+}
+.ama .ama2{
+	width: 45%;
+
+}
+.ama .ama3{
+	width:55%;
+}
+.ama .ama2 img{
+	height: 400px;
+	width: 400px;
+	border-radius: 20px;
+	object-fit: cover;
+}
+.ama .ama3 .text{
+	font-size: 	35px;
+	font-weight: 	600;
+
+}
+.ama .ama3 .text em{
+	color: 	crimson;
+}
+.ama .ama3 p{
+	text-align: 	justify;
+	font-size: 	20px;
+	color: white;	
+}
+.ama .ama3 a{
+	display:inline-block;	
+	font-size: 	40px;
+	font-weight: 	200;
+	background-color: 	crimson;
+	color: 	white;
+	border-radius: 	20px;
+	padding: 	15px 30px;
+	margin-top: 	20px;
+	border:2px solid crimson	;
+}
+.ama .ama3 a:hover{
+	background:none;
+	color: 	crimson;
+}
+/*/**************************************************************************/
+.pipeush a{
+	color: #000;
+	font-size: 40px;
+	font-weight: 500;
+}
+.pipeush a em {
+	color: skyblue;
+}
+.pipeush1{
+	margin-top: 6px;
+}
+.pipeush1 li{
+	display: inline-block;
+}
+.pipeush2 li a{
+	color:white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.pipeush2 li a:hover{
+	color:blue;
+}
+.pipeush0{
+	background-color:black;
+	width: 1400px;
+	padding: 0;
+	margin: 0;
+	font-family: cursive;
+	text-decoration: none;
+	list-style: none;
+}
+.pipeush0 .pipeush21{
+	width: 1250px;
+	display: flex;
+	justify-content: space-between;
+	margin:auto	;
+	height: 90px;
+}
+.pipeush a{
+	color: white;
+	font-size: 40px;
+	font-weight: 500;
+}
+.pipeush a em {
+	color: skyblue;
+}
+.pepe{
+	background-color: skyblue;
+}
+.P{
+	font-size: 	40px;
+	font-weight: 	500;
+	text-align: 	center;	
+	text-decoration: none;
+}
+.p1{
+	text-align: center;
+}
+.p1 span{
+	color: red;
+}
+.amo{
+	margin: 10px 0px;
+	width: 800px;
+	height: 250px;
+}
+.amat .amat1 img{
+	height: 180px;
+	width: 200px;
+	border-radius: 1800px;
+	object-fit: cover;
+	padding: 10px;
+}
+.amat .amat2 img{
+	height: 180px;
+	width: 200px;
+	border-radius: 1800px;
+	object-fit: cover;
+}
+.amat .amat3 img{
+	height: 180px;
+	width: 200px;
+	border-radius: 1800px;
+	object-fit: cover;
+}
+.amat1 em{
+	color: white;
+}
+.amat2{
+	color: white;
+}
+.amat3{
+	color: white;
+}
+.amat{
+	background-color:black; 
+}
+/*******************************************/
+
+.s9{
+	padding: 100px 0px;
+}
+.lorem1{
+	margin:0px 100px;
+	width: 500px;
+}
+.div10{
+	display: inline-block;
+	width:500px;
+}
+.div11{
+	display: flex;
+	justify-content: space-between;
+	font-size: 25px;
+}
+.div12{
+	margin:0px 0px 15px 15px;
+}
+.div11 .lorem1{
+	word-spacing: 5px;
+	margin-bottom: 15px;
+}
+.div11 .div13 p{
+	margin-bottom: 10px;
+}
+.div11 .div14{
+	display: inline-block;
+	margin-right: 200px;
+}
+.div14{
+	margin: 0px
+}
+.div14 .div15 input{
+	height: 23px;
+	width:140px;
+	margin-bottom:10px;
+}
+.div14 .div16 input{
+	height: 23px;
+	width:140px;
+	margin-bottom: 10px;
+}
+.div14 .div16 textarea{
+	height: 200px;
+	width:200px;
+	margin-bottom: 10px;
+}
+.div14 a{
+	color: #000;
+	border:3px groove crimson;
+	border-radius: 20px;
+	background-color:crimson ;
+	font-weight: 700;
+	padding: 20px;
+	margin:8px 0px;
+	display: inline-block;
+}
+.div14 a:hover{;
+	color:crimson;
+	background:none;
+}
+.div14{
+	margin:0px 200px;
+}
+.div13 .m1{
+	color: crimson;
+}
+.div13 .m2{
+	display: flex;
+	margin: 10px 15px 0px 15px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.div17{
+	display: flex;
+	justify-content: space-between;
+	width:45%;
+}
+.div13{
+
+	
+	padding-bottom: 0px;
+	padding-left: 85px;
+
+}
+.div13 .fa{
+	color: crimson;
+}
+.foo1{
+	margin-top: 838px;
+	margin-left: 250px;
+	position: absolute;
+	background-color: blue;
+
+}
